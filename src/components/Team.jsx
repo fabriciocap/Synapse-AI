@@ -42,15 +42,15 @@ export default function Team() {
               </div>
               <span className="team-ring"></span>
             </div>
-            <b className="team-name">[Nome do co-fundador]</b>
-            <span className="team-role">Co-fundador &amp; [Área]</span>
+            <b className="team-name">Ângelo Porsch</b>
+            <span className="team-role">Co-fundador &amp; Desenvolvimento</span>
             <p className="team-bio">
               [Espaço reservado: escreva aqui uma breve descrição sobre o outro fundador —
               experiência, papel na empresa e o que ele traz para a Synapse.]
             </p>
             <div className="team-tags">
-              <span>[Tag 1]</span>
-              <span>[Tag 2]</span>
+              <span>Back-end</span>
+              <span>Produto</span>
             </div>
           </div>
         </div>
